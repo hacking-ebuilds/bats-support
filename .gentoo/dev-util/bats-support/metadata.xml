@@ -2,19 +2,19 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 
 <pkgmetadata>
-    <maintainer type="person">
-        <email>overlay-maintainer@mad-hacking.net</email>
-        <name>Overlay Maintainer</name>
-    </maintainer>
-    <upstream>
+	<maintainer type="person">
+		<email>overlay-maintainer@mad-hacking.net</email>
+		<name>Overlay Maintainer</name>
+	</maintainer>
+	<upstream>
 		<remote-id type="github">ztombol/bats-support</remote-id>
-        <maintainer>
-            <email>default-package-maintainer@mad-hacking.net</email>
-            <name>Default Package Maintainer</name>
-        </maintainer>
-        <bugs-to>https://github.com/hacking-ebuilds/bats-support/issues</bugs-to>
-        <doc>https://github.com/ztombol/bats-support/wiki</doc>
-    </upstream>
+		<maintainer>
+			<email>default-package-maintainer@mad-hacking.net</email>
+			<name>Default Package Maintainer</name>
+		</maintainer>
+		<bugs-to>https://github.com/hacking-ebuilds/bats-support/issues</bugs-to>
+		<doc>https://github.com/ztombol/bats-support/wiki</doc>
+	</upstream>
 	<longdescription lang="en">
 		bats-support is a supporting library providing common functions to test helper libraries
 		written for bats-core.
